@@ -1,0 +1,25 @@
+.container{
+  text-align: center;
+}
+.container h1{
+  text-align: center;
+  color: #e0e0e0e0;
+}
+
+.container > .form-group{
+  margin: 0 auto;
+}
+
+.form-group .btn{
+  box-shadow: 0;
+  background: #fc2399;
+  border:0;
+  color: #fff;
+  padding: 10px;
+  width: 8%;
+  border-radius: 2px;
+}
+
+label{
+  color: #999;
+}
